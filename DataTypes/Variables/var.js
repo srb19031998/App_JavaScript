@@ -1,0 +1,12 @@
+var name1 = "shivanand";
+console.log(name1);
+name1 = "anil";
+console.log(name1);
+var name2 = "shivaraj";
+console.log(name2);
+var email = "raju@gmail.com";
+console.log(email);
+var gender = "male";
+console.log(gender);
+var legs = 2;
+console.log(legs);
